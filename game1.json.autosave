@@ -14,7 +14,7 @@
     "macExecutableFilename": "",
     "orientation": "portrait",
     "packageName": "com.example.gamename",
-    "projectFile": "D:\\Công nghệ phần mềm\\Game\\game1.json",
+    "projectFile": "D:\\ReviewGame\\Game\\game1.json",
     "scaleMode": "linear",
     "sizeOnStartupMode": "adaptWidth",
     "useExternalSourceFiles": false,
@@ -1167,6 +1167,27 @@
         "name": "image\\2 (1).png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "file": "font/PTSans-Italic.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "font\\PTSans-Italic.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "font/PTSans-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "font\\PTSans-Regular.ttf",
+        "userAdded": true
+      },
+      {
+        "file": "font/PTSans-BoldItalic.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "font\\PTSans-BoldItalic.ttf",
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -1922,7 +1943,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.3078
+        "zoomFactor": 0.434
       },
       "objectsGroups": [],
       "variables": [],
@@ -2703,7 +2724,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.4144
+        "zoomFactor": 0.4272
       },
       "objectsGroups": [],
       "variables": [
@@ -2779,8 +2800,8 @@
           "locked": false,
           "name": "bg2",
           "width": 2403,
-          "x": 4,
-          "y": 2,
+          "x": -2,
+          "y": -2,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -2838,9 +2859,9 @@
           "layer": "",
           "locked": false,
           "name": "huongdan",
-          "width": 437,
-          "x": 764,
-          "y": 225,
+          "width": 558,
+          "x": 728,
+          "y": 251,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -3016,8 +3037,8 @@
           }
         },
         {
-          "bold": true,
-          "italic": true,
+          "bold": false,
+          "italic": false,
           "name": "huongdan",
           "smoothed": true,
           "tags": "",
@@ -3025,13 +3046,13 @@
           "underlined": false,
           "variables": [],
           "behaviors": [],
-          "string": "Đưa bóng vào vạch số\n\n",
-          "font": "",
+          "string": "Put the ball on the number line\n\n",
+          "font": "font\\PTSans-Regular.ttf",
           "characterSize": 40,
           "color": {
-            "b": 171,
-            "g": 168,
-            "r": 96
+            "b": 0,
+            "g": 0,
+            "r": 0
           }
         },
         {
@@ -9259,7 +9280,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.256
+        "zoomFactor": 0.4524
       },
       "objectsGroups": [],
       "variables": [],
@@ -11791,7 +11812,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.208
+        "zoomFactor": 0.4952
       },
       "objectsGroups": [],
       "variables": [],
@@ -14251,7 +14272,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.28
+        "zoomFactor": 0.489
       },
       "objectsGroups": [],
       "variables": [],
@@ -16711,7 +16732,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.256
+        "zoomFactor": 0.3694
       },
       "objectsGroups": [],
       "variables": [],
@@ -16974,7 +16995,7 @@
         "gridWidth": 32,
         "snap": true,
         "windowMask": false,
-        "zoomFactor": 0.376
+        "zoomFactor": 0.339
       },
       "objectsGroups": [
         {
